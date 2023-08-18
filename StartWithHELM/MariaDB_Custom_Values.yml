@@ -1,0 +1,5 @@
+auth:
+  database: "agunigbo"
+  password: "test123" #for mariadb custom user
+  username: "ikenna1"
+  rootPassword: "rootpassword"
